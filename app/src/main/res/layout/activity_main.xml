@@ -45,7 +45,7 @@
                     <TextView
                         android:id="@+id/user_location"
                         android:layout_width="0dp"
-                        android:text="Delhi"
+                        android:text="Delhi, India"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_weight="1"
