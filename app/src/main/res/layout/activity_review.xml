@@ -61,7 +61,7 @@
                 android:fontFamily="sans-serif"
                 android:gravity="center"
                 android:foregroundGravity="center"
-                android:text="Reviews"
+                android:text="@string/reviews"
                 android:paddingBottom="3dp"
                 android:textColor="@color/white_opaque"
                 android:textSize="25sp" />
