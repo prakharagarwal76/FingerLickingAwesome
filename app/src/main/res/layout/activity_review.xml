@@ -74,7 +74,7 @@
             android:layout_height="wrap_content"
             android:textColor="@color/white_opaque"
             android:textStyle="bold"
-            android:text="Write a review"
+            android:text="Write a new review"
             android:background="#5c000000"
             android:layout_gravity="center"
             android:gravity="center"/>
@@ -99,7 +99,7 @@
             android:visibility="visible"
             android:textColor="@color/white_opaque"
             android:gravity="center"
-            android:text="Be the first one to write a review"
+            android:text="Be the first one to write a review..."
             />
 
         </RelativeLayout>
